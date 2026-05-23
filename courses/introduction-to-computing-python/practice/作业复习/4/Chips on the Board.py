@@ -1,0 +1,10 @@
+t=int(input())
+for i in range(0,t):
+    n=int(input())
+    row=list(map(int,input().split()))
+    line=list(map(int,input().split()))
+    min_row=min(row)
+    min_line=min(line)
+    a=n*min_row+sum(line)
+    b=n*min_line+sum(row)
+    print(min(a,b))
