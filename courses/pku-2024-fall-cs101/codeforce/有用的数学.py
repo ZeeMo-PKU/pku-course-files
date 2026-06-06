@@ -1,0 +1,9 @@
+a=list(map(str,input().split('+')))
+num1=a.count('1')
+num2=a.count('2')
+num3=a.count('3')
+out1=str('1+'*num1)
+out2=str('2+'*num2)
+out3=str('3+'*num3)
+f=out1+out2+out3
+print(f[0:-1])
