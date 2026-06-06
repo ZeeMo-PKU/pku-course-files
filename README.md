@@ -26,3 +26,7 @@ docs/
 - This repository is for portfolio presentation and personal archival use.
 - Some assignment details may be summarized to avoid exposing private course materials.
 - Please see [Academic Integrity](docs/academic-integrity.md) before reusing any material.
+
+## Courses
+
+- [PKU 2024 Fall CS101](courses/pku-2024-fall-cs101/)
