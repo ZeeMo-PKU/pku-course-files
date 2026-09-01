@@ -1,8 +1,16 @@
-# Course Files
+# PKU Course Archive and Portfolio
 
-Personal archive for university course materials, assignments, notes, practice code, and review resources.
+Personal archive for university course materials, assignments, notes, practice code, review resources, and selected academic work.
 
-The repository keeps each course on a dedicated branch so large course artifacts and course-specific folder layouts stay isolated.
+The repository keeps each course on a dedicated branch so large course artifacts and course-specific folder layouts stay isolated. Curated work intended for public presentation is kept separately under [`portfolio/`](portfolio/).
+
+## Selected Portfolio
+
+The [`portfolio/`](portfolio/) directory contains a small, reviewed collection of reports and academic writing. It is intentionally separate from the complete course archives and includes an [academic integrity statement](portfolio/docs/academic-integrity.md).
+
+Current featured work:
+
+- [Foxtail Grass Observation and Field Research](portfolio/assignments/foxtail-grass-observation/README.md)
 
 ## Course Branches
 
@@ -38,4 +46,4 @@ git checkout 计算概论
 git checkout 数据结构与算法
 ```
 
-This repository is intended for personal study archival and coursework organization.
+This repository combines personal study archives with a curated academic portfolio. Course branches preserve full working materials, while `portfolio/` contains only selected presentation-ready work.
